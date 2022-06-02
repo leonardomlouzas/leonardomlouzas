@@ -1,4 +1,4 @@
-<h1 align="center"> Yo, I'm Leo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Yo, I'm Leo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1>
 
 <div align="center">
   <p>Welcome to my GitHub! I'm a Full-Stack Developer who loves Back-End. 
