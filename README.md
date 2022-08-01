@@ -1,8 +1,7 @@
 <h1 align="center"> Yo, I'm Leo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1>
 
 <div align="center">
-  <p>Welcome to my GitHub! I'm a Full-Stack Developer in development. I am currently working as Peer-Coach (Monitoring) for Kenzie Academy Brazil where I also study. Finished the Front-End part (HTML, CSS, Javascript, Typescript, ReactJS) and now I'm at the Back-End part (Python, Flask, SQL, NoSQL, PostgreSQL, MongoDB, NodeJS, Express, Django).
-  </p>
+  <p>Welcome to my GitHub! I'm a Full-Stack Developer.I am mainly focused on Back-End and API development.</p>
   <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50' height='50'/>
   <p>Here are some of my projects:</p>
   
