@@ -27,7 +27,7 @@
   <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint3-crud-nosql-leonardomlouzas">CRUD REST PyMongo</a></p>
   <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint4-anime-stock-leonardomlouzas">Anime Stock PostgreSQL</a></p>
   <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint5-matriz-eisenhower-leonardomlouzas">Eisenhower Matrix PostgreSQL</a></p>
-  <p><a href="https://github.com/leonardomlouzas/Academy-API">Kenzie-Fit</a></p>
+  <p><a href="https://github.com/leonardomlouzas/Academy-API">Kenzie-Fit Flask</a></p>
   <p><a href="https://github.com/leonardomlouzas/capstone_django">Movie Seller Django</a></p>
 </div>
 
