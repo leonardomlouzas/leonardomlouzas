@@ -29,6 +29,7 @@
   <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint5-matriz-eisenhower-leonardomlouzas">Eisenhower Matrix Flask</a></p>
   <p><a href="https://github.com/leonardomlouzas/Academy-API">Kenzie-Fit Flask</a></p>
   <p><a href="https://github.com/leonardomlouzas/capstone_django">Movie Seller Django</a></p>
+  <p><a href="https://github.com/leonardomlouzas/quiz-API">Quiz API Django</a></p>
 </div>
 
 <hr/>
