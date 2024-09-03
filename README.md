@@ -5,7 +5,7 @@
     <div align="center">
         <a href="https://www.linkedin.com/in/leonardomlouzas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         <a href="https://wa.me/5561996253779" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-        <a align="end" href="https://t.me/llouzas" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+        <a href="https://t.me/llouzas" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     </div>
 </h2>
 
@@ -16,30 +16,30 @@
             <td align="center" valign="top">
                 <details open>
                     <summary>HTML/CSS/JS</summary>
-                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/entrega-torre-de-hanoi-sprint-5-LeonardoMLouzas">Tower of Hanoi</a></p>
-                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/entrega-labirinto-sprint-5-LeonardoMLouzas">Labyrinth</a></p>
-                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/entrega-lig-4-sprint-5-diegohpsousa">Lig-4</a></p>
+                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/entrega-torre-de-hanoi-sprint-5-LeonardoMLouzas" target="_blank">Tower of Hanoi</a></p>
+                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/entrega-labirinto-sprint-5-LeonardoMLouzas" target="_blank">Labyrinth</a></p>
+                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/entrega-lig-4-sprint-5-diegohpsousa" target="_blank">Lig-4</a></p>
                 </details>
             </td>
             <td align="center" valign="top">
                 <details open>
                     <summary>React</summary>
-                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-leonardomlouzas">Burguer Kenzie</a></p>
-                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-atividade-s2-github-card-leonardomlouzas">Repository Search</a></p>
-                    <p><a href="https://github.com/vitorsoaresf/react-gestao-habitos">Anima</a></p>
-                    <p><a href="https://github.com/leonardomlouzas/mypet">My Pets</a></p>
+                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-hamburgueria-da-kenzie-leonardomlouzas" target="_blank">Burguer Kenzie</a></p>
+                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-atividade-s2-github-card-leonardomlouzas" target="_blank">Repository Search</a></p>
+                    <p><a href="https://github.com/vitorsoaresf/react-gestao-habitos" target="_blank">Anima</a></p>
+                    <p><a href="https://github.com/leonardomlouzas/mypet" target="_blank">My Pets</a></p>
                 </details>
             </td>
             <td align="center" valign="top">
                 <details open>
                     <summary>Python</summary>
-                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint2-e6-banco-de-imagens-leonardomlouzas">Image Database Flask</a></p>
-                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint3-crud-nosql-leonardomlouzas">CRUD REST Flask</a></p>
-                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint4-anime-stock-leonardomlouzas">Anime Stock Flask</a></p>
-                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint5-matriz-eisenhower-leonardomlouzas">Eisenhower Matrix Flask</a></p>
-                    <p><a href="https://github.com/leonardomlouzas/Academy-API">Kenzie-Fit Flask</a></p>
-                    <p><a href="https://github.com/leonardomlouzas/capstone_django">Movie Seller Django</a></p>
-                    <p><a href="https://github.com/leonardomlouzas/quiz-API">Quiz API Django</a></p>
+                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint2-e6-banco-de-imagens-leonardomlouzas" target="_blank">Image Database Flask</a></p>
+                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint3-crud-nosql-leonardomlouzas" target="_blank">CRUD REST Flask</a></p>
+                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint4-anime-stock-leonardomlouzas" target="_blank">Anime Stock Flask</a></p>
+                    <p><a href="https://github.com/Kenzie-Academy-Brasil-Developers/q3-sprint5-matriz-eisenhower-leonardomlouzas" target="_blank">Eisenhower Matrix Flask</a></p>
+                    <p><a href="https://github.com/leonardomlouzas/Academy-API" target="_blank">Kenzie-Fit Flask</a></p>
+                    <p><a href="https://github.com/leonardomlouzas/capstone_django" target="_blank">Movie Seller Django</a></p>
+                    <p><a href="https://github.com/leonardomlouzas/quiz-API" target="_blank">Quiz API Django</a></p>
                 </details>
             </td>
         </tr>
